@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.92206991"
-     inkscape:cx="252.55814"
-     inkscape:cy="299.63005"
+     inkscape:cx="512.84209"
+     inkscape:cy="212.86873"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4195"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="744"
@@ -72,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -334,7 +334,7 @@
              y="0"
              x="0" /></flowRegion><flowPara
            style="font-size:18px;line-height:139.99999762%"
-           id="flowPara3150">Set your leading, commonly know of as line-height, to 120–145% of your base font size. Give your words room to breath.</flowPara><flowPara
+           id="flowPara3150">Set your leading, commonly known of as line-height, to 120–145% of your base font size. Give your words room to breath.</flowPara><flowPara
            id="flowPara4150"
            style="font-size:18px;line-height:139.99999762%" /></flowRoot>      <flowRoot
          transform="translate(-11.8625,213.19968)"
@@ -365,31 +365,31 @@
              x="0" /></flowRegion><flowPara
            style="font-size:18px;line-height:139.99999762%"
            id="flowPara3150-6-9">For print, 10–14 pt is recommended; on screen, 16–24 px for body text</flowPara></flowRoot>      <text
-         sodipodi:linespacing="125%"
+         sodipodi:linespacing="140%"
          id="text4101"
          y="800.36218"
          x="403.20001"
          style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nymphette;-inkscape-font-specification:Nymphette"
          xml:space="preserve"><tspan
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Calendas Plus;-inkscape-font-specification:Calendas Plus Bold"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Calendas Plus;-inkscape-font-specification:Calendas Plus Bold;line-height:140%"
            y="800.36218"
            x="403.20001"
            id="tspan4103"
            sodipodi:role="line">Try these well-respected free fonts:</tspan><tspan
            id="tspan4105"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Calendas Plus;-inkscape-font-specification:Calendas Plus"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Calendas Plus;-inkscape-font-specification:Calendas Plus;line-height:140%"
            y="822.86218"
            x="403.20001"
            sodipodi:role="line">Serif: <tspan
    id="tspan4191"
-   style="font-style:italic;-inkscape-font-specification:Calendas Plus Italic">Linux Libertine, Alegreya, Droid Serif</tspan></tspan><tspan
+   style="font-style:italic;-inkscape-font-specification:Calendas Plus Italic;line-height:140%">Linux Libertine, Alegreya, Droid Serif</tspan></tspan><tspan
            id="tspan4107"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Calendas Plus;-inkscape-font-specification:Calendas Plus"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Calendas Plus;-inkscape-font-specification:Calendas Plus;line-height:140%"
            y="845.36218"
            x="403.20001"
            sodipodi:role="line">Sans-serif: <tspan
    id="tspan4193"
-   style="font-style:italic;-inkscape-font-specification:Calendas Plus Italic">Lato, Ubuntu, Fira Sans, Roboto</tspan></tspan></text>
+   style="font-style:italic;-inkscape-font-specification:Calendas Plus Italic;line-height:140%">Lato, Ubuntu, Fira Sans, Roboto</tspan></tspan></text>
       <text
          sodipodi:linespacing="140%"
          id="text3042-2-3"
