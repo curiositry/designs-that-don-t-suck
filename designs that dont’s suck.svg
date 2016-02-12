@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="designs that dont’s suck.svg"
-   inkscape:export-filename="/home/isa/designs that dont’s suck.png"
+   inkscape:export-filename="/var/www/designs-that-don-t-suck/designs that dont’s suck.png"
    inkscape:export-xdpi="352.94116"
    inkscape:export-ydpi="352.94116">
   <defs
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.92206991"
-     inkscape:cx="512.84209"
-     inkscape:cy="212.86873"
+     inkscape:cx="426.08078"
+     inkscape:cy="256.24939"
      inkscape:document-units="px"
-     inkscape:current-layer="g4195"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="744"
@@ -401,7 +401,7 @@
            y="573.56219"
            x="25.200001"
            id="tspan3044-1-39"
-           sodipodi:role="line">Good line-lenght</tspan></text>
+           sodipodi:role="line">Good line-length</tspan></text>
       <flowRoot
          transform="translate(-11.8625,61.999683)"
          id="flowRoot3144-0-5"
@@ -455,11 +455,11 @@
          id="tspan4241"
          x="25.200001"
          y="1027.1622"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calendas Plus;-inkscape-font-specification:Calendas Plus Italic;fill:#333333"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:Calendas Plus;-inkscape-font-specification:Calendas Plus Italic"><tspan
            style="fill:#999999"
            id="tspan3078">made in canada with ☕ by</tspan><tspan
            style="fill:#dd4814;fill-opacity:1"
-           id="tspan7074"> @omphalosskeptic.  </tspan></tspan></text>
+           id="tspan7074"> @curiositry.  </tspan></tspan></text>
     <g
        id="g4568"
        transform="matrix(0.84455838,0,0,0.84455838,155.7869,161.42232)">
